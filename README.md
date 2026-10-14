@@ -3,8 +3,8 @@
 A modern, responsive, and user-centric redesign of the official InternNova homepage, developed as part of the mandatory Web Development Internship Project.
 
 ## Live Demo & Repository
-- **Live Website:** [Insert Live Vercel/Netlify/GitHub Pages Link Here]
-- **GitHub Repository:** [Insert GitHub Repo Link Here]
+- **Live Website:** [https://wdinternnovaredesignharsh.vercel.app/]
+- **GitHub Repository:** [https://github.com/Harsh-Web-Developer/WD_internnova_redesign_Harsh]
 
 ## Key Features
 1. Dark Hero theme with glassmorphism cards and brand accent colors.
